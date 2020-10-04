@@ -21,6 +21,10 @@ h6 {
     font-family: "Raleway", sans-serif;
 }
 
+.justify-content-center {
+    justify-content: center!important;
+}
+
 
 /*--------------------------------------------------------------
 # Header
